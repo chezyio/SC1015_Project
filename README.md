@@ -20,6 +20,8 @@ All Chest X-ray images were select from retrospective cohorts of pediatric patie
 
 <br/>
 
-## Convolutional Neural Networks
+## Convolutional Neural Networks (CNN)
 <br/>
 <img width=50% alt="image" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vkQ0hXDaQv57sALXAJquxA.jpeg">
+<br>
+Within deep learning, CNN is a type of neural network that are specifically designed for processing data that has a grid-like structure, such as images, video, and audio. They are super useful for finding patterns in images to recognize its objects, classes or categories. Which in this project we have used it on the x-ray images of patients to classify if the patient has pneumonia or not. 
